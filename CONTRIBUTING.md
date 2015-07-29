@@ -1,4 +1,4 @@
-# Contributing to Management and Oversight of Federal Information Technology Resources
+# Contributing to Test Cyber Comment Page
 
 *By contributing to this project, you dedicate your work to the public domain and relinquish any copyright claims under the terms of the [CC0 Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/). See the [license file](LICENSE) for additional information.*
 
@@ -10,7 +10,7 @@ Contributions can be made, primarily in two ways:
 
 ### Easy
 
-1. Browse the content at https://management.cio.gov.
+1. Browse the content at URL URL URL.
 2. Click the "Edit this Page" button in the top right corner of any page.
 3. Make changes as you would normally.
 4. Click "Submit".
