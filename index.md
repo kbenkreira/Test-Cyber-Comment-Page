@@ -8,7 +8,6 @@ title: FITARA
 
 ### Improving Cybersecurity Protections in Federal Acquisitions Public Comment Space
 
-1.      lalallaa
 text here text here
 
 _[Return to the Top]()_
